@@ -1,6 +1,6 @@
 # Retro Neon Digital Clock
 
-![Retro Neon Digital Clock](path/to/generated-clock-image.png) <!-- Placeholder for the generated image -->
+![Retro Neon Digital Clock](https://github.com/imtahirnaseer/Nixie-Tube-Light/blob/aebb5aed567cc5da51ff0e5124e8e3348d8a689b/nixie.png) <!-- Placeholder for the generated image -->
 
 ## Overview
 
