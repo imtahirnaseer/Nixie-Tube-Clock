@@ -39,7 +39,7 @@ This project recreates a **retro-futuristic neon digital clock** that combines:
 ---
 
 ## 🔗 Live Demo 
-Example: **[View Clock Live](https://imtahirnaseer.github.io/Nixie-Tube-Light/)**
+Example: **[View Clock Live](https://imtahirnaseer.github.io/Nixie-Tube-Clock/)**
 
 ---
 
